@@ -1,0 +1,22 @@
+body {
+  font-family: 'Lato', sans-serif;
+  margin: 0px;
+}
+
+header {
+  margin: 1em 0em;
+  padding: 0.2em 1em;
+  background-color: #000000;
+}
+
+h1 {
+  color: #ffffff;
+  max-width: 900px;
+  margin: auto;
+}
+
+main {
+  margin: 1em;
+  max-width: 900px;
+  margin: auto;
+}
